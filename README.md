@@ -1,4 +1,4 @@
-# Hi there, I'm MP1108 👋
+# Hi there, I'm Matt (MP1108) 👋
 
 ### 👨‍💻 17yo Developer | .NET & Web Development
 I build cross-platform applications using **.NET 10** and **MAUI**. I focus on creating functional software with a unique look, like my pixel-art weather app. Outside of C#, I work with PHP, SQL, and modern frontend tools.
