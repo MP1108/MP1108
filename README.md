@@ -1,7 +1,7 @@
 # Hi there, I'm MP1108 👋
 
-### 👨‍💻 17yo Developer passionate about clean code ⚡
-I love building cross-platform applications and exploring the latest features of **.NET 10**. Currently, I'm focusing on creating unique user experiences using **MAUI** and modern web technologies.
+### 👨‍💻 17yo Developer | .NET & Web Development
+I build cross-platform applications using **.NET 10** and **MAUI**. I focus on creating functional software with a unique look, like my pixel-art weather app. Outside of C#, I work with PHP, SQL, and modern frontend tools.
 
 ---
 
@@ -17,14 +17,14 @@ I love building cross-platform applications and exploring the latest features of
 
 ---
 
-### 🚀 Featured Project
-* 🌤️ **[Pixel Weather App](https://github.com/MP1108/MyWeatherApp)** *A .NET 10 MAUI project featuring a custom pixel-art aesthetic and asynchronous data fetching.*
+### 🚀 Projects
+* 🌤️ **[Pixel Weather App](https://github.com/MP1108/MyWeatherApp)** - Weather app built with .NET 10 MAUI, using OpenWeatherMap API and custom pixel-art assets.
 
 ---
 
-### 🌱 What's Happening?
-* 📱 **Building:** Advanced cross-platform UI patterns.
-* 🔍 **Exploring:** Native OS handlers and performance optimization in C#.
-* ✨ **Focusing:** On clean, maintainable architecture (MVVM).
+### 🌱 Current Learning
+* 📱 Advanced UI and animations in MAUI.
+* 🔍 MVVM architecture and better code structure.
+* ⚡ Efficient data handling in C#.
 
-**📫 How to reach me:** Check out my repositories or drop a message!
+**📫 Reach me:** You can find my work in the repositories below.
