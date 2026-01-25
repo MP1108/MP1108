@@ -1,4 +1,4 @@
-# Hello, my name is Matt (MP1108) 👋
+# Hi, I’m Matt 👋
 
 ### 👨‍💻 17-year-old Web & .NET Developer
 
