@@ -18,6 +18,9 @@ I also work with PHP, SQL, and modern frontend tools alongside C#.
 **Language:**  
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 
+**Database:**  
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
 ---
 
 ### Web Development
@@ -30,6 +33,7 @@ I also work with PHP, SQL, and modern frontend tools alongside C#.
 **Backend & Database:**  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
 
@@ -40,11 +44,25 @@ Weather app built with **.NET 10 MAUI**, custom pixel-art assets, and the **Open
 
 ---
 
-## 🎓 Currently Learning
-- Advanced MAUI UI & animations  
-- Better code structure & MVVM  
-- ⚡ Efficient C# data handling  
+🖥️ **Terminal GUI – Product Manager (MAUI + SQLite)**  
+Desktop application built with **.NET MAUI**, designed for managing a local product database.
+
+
+**Features:**
+- ➕ Add, edit, delete, and search products  
+- 🗂️ SQLite local database (persistent storage)  
+- 🔍 Real-time search and sorting (by name and price)  
+- 📤 Export data to CSV  
+- 📜 Built-in system log panel  
+
+**Tech stack:**  
+C#, .NET MAUI, XAML, SQLite, MySQL, MVVM, HTML, CSS, PHP, JavaScript
 
 ---
 
-📫 **Contact:** Check out my repositories below 👇
+## 🎓 Currently Learning
+- Advanced MAUI UI & animations  
+- Better code structure & MVVM architecture  
+- Efficient C# data handling  
+
+---
