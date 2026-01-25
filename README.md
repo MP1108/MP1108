@@ -2,9 +2,9 @@
 
 ### 👨‍💻 17-year-old Web & .NET Developer
 
-I use **MAUI** and **.NET 10** to create cross-platform applications.  
-I focus on building useful software with a distinctive appearance — like my pixel-art weather app.  
-I also work with PHP, SQL, and modern frontend tools alongside C#.
+I use MAUI and.NET 10 to create cross-platform applications.
+I concentrate on developing useful software with a unique aesthetic, like my pixel-art weather app.
+In addition to C#, I also work with PHP, SQL, and contemporary frontend technologies.
 
 ---
 
