@@ -14,6 +14,7 @@ I also work with PHP, SQL, and modern frontend tools alongside C#.
 **Frameworks:**  
 ![.NET 10](https://img.shields.io/badge/.NET%2010-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![MAUI](https://img.shields.io/badge/MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![XAML](https://img.shields.io/badge/XAML-512BD4?style=flat-square&logo=windows&logoColor=white)
 
 **Language:**  
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
