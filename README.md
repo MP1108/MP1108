@@ -18,18 +18,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white)
 
-## 🚀 Projects
-
-🌤️ **[Pixel Weather App](https://github.com/MP1108/MyWeatherApp)**  
-Cross-platform weather app built with **.NET 10 MAUI**, custom pixel-art assets, and **OpenWeatherMap API**.  
-![OpenWeatherMap](https://img.shields.io/badge/OpenWeatherMap-API-FF6600?style=flat-square&logo=openweathermap&logoColor=white)
-
-🖥️ **Terminal GUI – Product Manager**  
-Desktop app for managing products with **.NET MAUI** + **SQLite**.  
-**Features:** CRUD operations, real-time search & sorting, CSV export, system logs.  
-**Tech:** C#, .NET MAUI, XAML, SQLite, MVVM
-
 ## 🎓 Currently Learning
-- Advanced MAUI UI & animations  
-- Clean MVVM architecture & code structure  
+- Advanced MAUI UI & animations
+- Clean MVVM architecture & code structure
 - Efficient data processing in C#
+🚀
