@@ -1,69 +1,35 @@
 # Hi, I’m Matt 👋
-
 ### 👨‍💻 17-year-old Web & .NET Developer
-
-I use MAUI and.NET 10 to create cross-platform applications.
-I concentrate on developing useful software with a unique aesthetic, like my pixel-art weather app.
-In addition to C#, I also work with PHP, SQL, and contemporary frontend technologies.
-
----
 
 ## 🛠️ Tech Stack & Skills
 
 ### Desktop & Mobile Development
-**Frameworks:**  
 ![.NET 10](https://img.shields.io/badge/.NET%2010-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![MAUI](https://img.shields.io/badge/MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![XAML](https://img.shields.io/badge/XAML-512BD4?style=flat-square&logo=windows&logoColor=white)
-
-**Language:**  
+![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-
-**Database:**  
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
----
+![XAML](https://img.shields.io/badge/XAML-0C54C4?style=flat-square&logo=xaml&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 
 ### Web Development
-
-**Frontend:**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Backend & Database:**  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
----
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white)
 
 ## 🚀 Projects
 
 🌤️ **[Pixel Weather App](https://github.com/MP1108/MyWeatherApp)**  
-Weather app built with **.NET 10 MAUI**, custom pixel-art assets, and the **OpenWeatherMap API**.
+Cross-platform weather app built with **.NET 10 MAUI**, custom pixel-art assets, and **OpenWeatherMap API**.  
+![OpenWeatherMap](https://img.shields.io/badge/OpenWeatherMap-API-FF6600?style=flat-square&logo=openweathermap&logoColor=white)
 
----
-
-🖥️ **Terminal GUI – Product Manager (MAUI + SQLite)**  
-Desktop application built with **.NET MAUI**, designed for managing a local product database.
-
-
-**Features:**
-- ➕ Add, edit, delete, and search products  
-- 🗂️ SQLite local database (persistent storage)  
-- 🔍 Real-time search and sorting (by name and price)  
-- 📤 Export data to CSV  
-- 📜 Built-in system log panel  
-
-**Tech stack:**  
-C#, .NET MAUI, XAML, SQLite, MySQL, MVVM, HTML, CSS, PHP, JavaScript
-
----
+🖥️ **Terminal GUI – Product Manager**  
+Desktop app for managing products with **.NET MAUI** + **SQLite**.  
+**Features:** CRUD operations, real-time search & sorting, CSV export, system logs.  
+**Tech:** C#, .NET MAUI, XAML, SQLite, MVVM
 
 ## 🎓 Currently Learning
 - Advanced MAUI UI & animations  
-- Better code structure & MVVM architecture  
-- Efficient C# data handling  
-
----
+- Clean MVVM architecture & code structure  
+- Efficient data processing in C#
