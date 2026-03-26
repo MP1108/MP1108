@@ -1,6 +1,6 @@
 # Hi, I'm Matt 👋
-### 👨‍💻 17-year-old Web & .NET Developer
-
+### 👨‍💻 17-year-old .NET MAUI & Frontend Developer
+I enjoy working with .NET, building small apps, and creating websites while improving my skills.
 ## 🛠️ Tech Stack & Skills
 
 ### Desktop & Mobile Development
@@ -17,7 +17,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white)
 
 ## 🎓 Currently Learning
@@ -25,4 +24,4 @@
 - Clean MVVM architecture & code structure
 - Efficient data processing in C#
 - Angular & TypeScript for modern web development
-🚀
+  
