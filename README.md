@@ -1,5 +1,5 @@
 # Hi, I'm Matt 👋
-### 👨‍💻 17-year-old .NET MAUI & Frontend Developer
+### 👨‍💻 18-year-old .NET MAUI & Frontend Developer
 I enjoy working with .NET, building small apps, and creating websites while improving my skills.
 ## 🛠️ Tech Stack & Skills
 
